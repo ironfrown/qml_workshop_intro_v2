@@ -7,11 +7,28 @@
 - **Associated with:** [QPoland](https://qworld.net/qpoland/) and [Quantum AI Foundation](https://www.qaif.org/)
 - **Aims:** To explore the creation and use of quantum machine learning models in PennyLane (PL) and PyTorch.
 - **Description:** This Quantum Machine Learning (QML) workshop provides an introduction to Quantum Machine Learning using PennyLane and PyTorch, with hands-on exercises and take-home challenges. The workshop includes four practical sessions that cover the QML concepts, models, and techniques. The sessions explore development of quantum estimators and classifiers, their training with various optimisers, loss and cost functions, as well as model testing and scoring using variety of metrics. It finally, explains how to create hybrid quantum-classical QML models.
-- **Structure:** Four sessions over two days, i.e.
+- **Preparation:** Before attempting the workshop, we recommend to do some preparation first:
+  - Download all resources (notes, code and data)
+  - Install the recommended Python virtual environment (venv + requirements), see "install" folder
+  - Undertake some preliminary exercises and get familiar with:
+    - PyTorch, tensors, gradients and neural networks:<br>
+      AssemblyAI, “PyTorch Crash Course - Getting Started with Deep Learning”, Jul 2022.<br>
+      [https://www.youtube.com/watch?v=OIenNRt2bjg](https://www.youtube.com/watch?v=OIenNRt2bjg) (50 mins)
+    - PennyLane, functions, circuits, qnodes and measurements:<br>
+      Diego Emilio Serrano, “Basic Introduction to PennyLane”, Feb 2023.<br>
+      [https://www.youtube.com/watch?v=MCDHAn-GvA8](https://www.youtube.com/watch?v=MCDHAn-GvA8) (40 mins)
+    - PennyLane circuit creation and execution for busy people:<br>
+      Isaac De Vlugt, “My first quantum circuit in PennyLane”, Sept 2023<br>
+      [https://www.youtube.com/watch?v=uCm027_jvZ0](https://www.youtube.com/watch?v=uCm027_jvZ0) (5 mins)
+    - Study two workshop notebooks in the "Explore" section (see table below) (1 hour)
+    - You are now ready!
+- **Structure:** Two preliminary self-study topics and four workshop sessions over two days, i.e.
+  - _**Explore 1:**_ Self study (preliminary)
+  - _**Explore 2:**_ Self study (preliminary)
   - _**Session 1:**_ QML foundation (basic)
   - _**Session 2:**_ Quantum estimators (intermediate)
   - _**Session 3:**_ Quantum classifiers (intermediate)
-  - _**Session 4:**_ Hybrid models (advanced)
+  - _**Session 4:**_ Hybrid models and QAEs (advanced)
 - **Release Date:**
   - _**October, 10 2025:**_ The final versions will be made available 1 day before the workshop
 - **Last Update:**
