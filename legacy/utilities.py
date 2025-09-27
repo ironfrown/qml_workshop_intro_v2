@@ -324,3 +324,5 @@ def draw_circuit(circuit, fontsize=20, style='pennylane',
             fig.suptitle(title, fontsize=fontsize)
         plt.show()
     return _draw_circuit
+
+
