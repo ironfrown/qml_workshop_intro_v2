@@ -51,8 +51,7 @@ Note however that they may be updated at any time!
 | *Session&nbsp;4* | s04_advanced_hybrid_vX_x.ipynb | Creates and tests a quantum-classical hybrid model |
 |  | s04_challenge_qae_vX_x.ipynb | Hard challenge to create a PyTorch quantum autoencoder |
 |  |  |  |
-| *Other* | utilities.py | Utilities useful for plotting functions to make your life easier |
-| | windows.py | Utilities needed to manage sliding windows (to be used in s04_challenge_qae_...) |
+| *Other* | utilities.py | A number of useful plotting functions to make your life easier |
 | | requirements.txt | A list of software needed for this workshop (for auto-install with *pip*) |
 
 ### Folders
