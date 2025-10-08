@@ -41,8 +41,9 @@ Note however that they may be updated at any time!
 
 | Session | File | Description |
 | :- | :- | :- |
-| *Explore&nbsp;1* | s00_explore_tiny_model_vX_x.ipynb | Explains QML principles using PL |
-| *Explore&nbsp;2* | s00_explore_meas_tests_vX_x.ipynb | Explains data encoding and measurements in PL |
+| *Explore&nbsp;1* | s00_explore_tiny_model_vX_x.ipynb | **Basic:** Explains QML principles using PL |
+| *Explore&nbsp;2* | s00_explore_meas_tests_vX_x.ipynb | **Medium:** Explains data encoding and measurements in PL |
+| *Explore&nbsp;3* | s00_explore_hybrid_models_vX_x.ipynb | **Advanced:** Explains how to build hybrid models in PL and Torch |
 |  |  |  |
 | *Session&nbsp;1* | s01_simple_model_vX_x.ipynb | Creates and tests a very simple quantum model |
 | *Session&nbsp;2* | s02_medium_qestimator_vX_x.ipynb | Creates and tests a more complex quantum estimator |
