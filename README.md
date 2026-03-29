@@ -1,4 +1,5 @@
 ## An introduction to QML in PennyLane and PyTorch (October 2025)
+**<font color="red">This repository has been superseded by [QML PL+Torch Workshop V3 (April 2026)](https://github.com/ironfrown/qml_workshop_intro_v3)</font>**
 - **Author:** [Jacob Cybulski](https://jacobcybulski.com/) ([LinkedIn](https://www.linkedin.com/in/jacobcybulski/)), *Enquanted*
 - **Collaboration with:**
       [Sebastian Zając](https://sebastianzajac.pl/) ([LinkedIn](https://www.linkedin.com/in/sebastianzajac/)),
